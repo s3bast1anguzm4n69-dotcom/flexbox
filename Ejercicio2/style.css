@@ -1,0 +1,13 @@
+.contenedor {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #90caf9;
+    padding: 20px;
+}
+
+.caja {
+    background-color: #1565c0;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
